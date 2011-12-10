@@ -1,11 +1,12 @@
-#!/usr/bin/python2.7
+#!/usr/bin/env python2
 # coding=UTF-8
 
 # Licenses are boring
-# This script may be freely used, modified and distributed as long as this notice is included
+# This script may be freely used, modified and distributed as long as
+# this notice is included
 # - Matti Virkkunen <mvirkkunen@gmail.com> / Lumpio- @IRCnet etc.
 #
-# http://lumpio.dy.fi/b/nicofetch.py
+# https://github.com/lumpio/nicofetch
 
 import sys
 import os, os.path, shutil
