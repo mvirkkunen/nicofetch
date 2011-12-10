@@ -1,0 +1,23 @@
+nicofetch.py - fetch videos from nicovideo.jp
+
+Features include:
+
+- Download videos - even without an account as long as the uploader
+  has not disabled the external player feature
+- Use your account if you have one - avoid economy mode if you have a
+  premium account
+- Download comments as XML
+- Extract audio from videos (requires external tools)
+
+Run the script with no arguments to see USAGE.
+
+The script can also be used as a library to add nicovideo downloading
+abilities to your own scripts, if anybody ever comes up with a use for
+such a feature.
+
+Future ideas:
+
+- Don't download into a temporary file with a random path to make it
+  easier to play the video as it downloads.
+- Add an option to convert comments to a format a normal video player can
+  use as an overlay to show comments on downloaded videos.
